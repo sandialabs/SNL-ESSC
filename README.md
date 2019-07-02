@@ -1,2 +1,9 @@
-# SNL-ESSC
-Sandia National Laboratories - Extreme Sea State Contour
+# Sandia National Laboratories - Extreme Sea State Contour (SNL-ESSC)
+
+## Abstract
+Environmental contours describing extreme sea states are generated as the input for numerical or physical model simulations as a part of the standard current practice for designing marine structures to survive extreme sea states. These environmental contours are characterized by combinations of significant wave height (Hs) and either energy period (Te) or peak period (Tp) values calculated for a given recurrence interval using a set of data based on hindcast simulations or buoy observations over a sufficient period of record. The use of the inverse first-order reliability method (I-FORM) is a standard design practice for generating environmental contours. This paper develops enhanced methodologies for data analysis prior to the application of the I-FORM, including the use of principal component analysis (PCA) to create an uncorrelated representation of the variables under consideration as well as new distribution and parameter fitting techniques. These modifications better represent the measured data and, therefore, should contribute to the development of more realistic representations of environmental contours of extreme sea states for determining design loads for marine structures.
+
+## References
+We ask that you please cite this paper if you use the Extreme Sea State Contour code in your work:
+
+- Aubrey C. Eckert-Gallup, Cédric J. Sallaberry, Ann R. Dallman, Vincent S. Neary, "*Application of principal component analysis (PCA) and improved joint probability distributions to the inverse first-order reliability method (I-FORM) for predicting extreme sea states*", Ocean Engineering, Volume 112, 15 January 2016, Pages 307-319, ISSN 0029-8018, http://dx.doi.org/10.1016/j.oceaneng.2015.12.018.
