@@ -7,3 +7,8 @@ Environmental contours describing extreme sea states are generated as the input 
 The methodologies implemented in this code are described in the following paper. We ask that you please cite this paper if you use the Extreme Sea State Contour code in your work:
 
 [1] Aubrey C. Eckert-Gallup, Cédric J. Sallaberry, Ann R. Dallman, Vincent S. Neary, "*Application of principal component analysis (PCA) and improved joint probability distributions to the inverse first-order reliability method (I-FORM) for predicting extreme sea states*", Ocean Engineering, Volume 112, 15 January 2016, Pages 307-319, ISSN 0029-8018, http://dx.doi.org/10.1016/j.oceaneng.2015.12.018.
+
+## Note to Users
+This code was developed in 2015 using versions of MATLAB and MATLAB toolboxes that were current at the time.  MATLAB versions and functions change over time, and users with newer versions of MATLAB may need to update function names and check for functionality changes for this code to be compatible. 
+
+The code was more recently ported into Python in the WDRT toolbox (http://wec-sim.github.io/WDRT/). The WDRT toolbox includes expanded functionality and should not have the same deprecation issues. 
